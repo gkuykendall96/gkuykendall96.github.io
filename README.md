@@ -1,4 +1,4 @@
-## Gabriel Kuykendall
+## GES 486 Lab 0
 
 ## Welcome to GitHub Pages
 
