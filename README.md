@@ -1,5 +1,4 @@
-## GES 486 Lab 0
-
+#Gabriel Kuykendall Lab 0 486
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gkuykendall96/gkuykendall96.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
