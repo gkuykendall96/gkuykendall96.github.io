@@ -1,1 +1,8 @@
-remote_theme: daviddarnes/alembic
+  remote_theme: daviddarnes/alembic
+
+  navigation_header:
+    Home:/
+    Project 1:
+    Project 2:
+    Project 3:
+    Project 4:
