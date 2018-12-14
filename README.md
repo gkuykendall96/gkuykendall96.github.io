@@ -4,7 +4,7 @@
 
 ### Project 1
 ### Project 2
-![alt text]https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/gifall.gif
+![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/gifall.gif)
 ### Project 3
 ### Project 4
 
