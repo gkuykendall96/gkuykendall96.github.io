@@ -32,9 +32,11 @@
 
 #### Part 3
 
+I decided to look at homicides within Houston, Texas from 1991 to 1995 to see if there was spatial correlation within the city. The issue with my analysis is that I should have normalized the data with population data of each district rather than only the homicide data. There was one district that had 15 times more homicides than the next highest, I am assuming because of the density of that district.
 ##### Houston Base
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/hou_homMapFrame.png)
-hello
+
+This map shows Houston and the districts I looked at. 
 ##### Natural Breaks
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/naturalbreak.png)
 ##### LISA Cluster
