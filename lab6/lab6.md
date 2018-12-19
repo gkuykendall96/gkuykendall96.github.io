@@ -31,8 +31,10 @@
 
 
 #### Part 3
-Base
+
+##### Houston Base
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/hou_homMapFrame.png)
+hello
 ##### Natural Breaks
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/naturalbreak.png)
 ##### LISA Cluster
