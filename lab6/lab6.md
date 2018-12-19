@@ -24,7 +24,13 @@
 #### Part 2
 LISA Cluster
 ![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/lisaclust.png)
+Medium Income Cluster Graph
+![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/medincomeclustergraph.png)
+Significance Map
+![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/signfic.png)
 
+
+#### Part 3
 
 
 
