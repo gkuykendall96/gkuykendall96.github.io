@@ -31,6 +31,16 @@
 
 
 #### Part 3
+Base
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/hou_homMapFrame.png)
+##### Natural Breaks
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/naturalbreak.png)
+##### LISA Cluster
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/clustersug.png)
+##### LISA Signficance
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part2/psig.png)
+
+
 
 
 
