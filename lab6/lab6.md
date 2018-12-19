@@ -22,11 +22,11 @@
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/Guerry10.png)
 
 #### Part 2
-LISA Cluster
+##### LISA Cluster
 ![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/lisaclust.png)
-Medium Income Cluster Graph
+##### Medium Income Cluster Graph
 ![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/medincomeclustergraph.png)
-Significance Map
+##### Significance Map
 ![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/signfic.png)
 
 
