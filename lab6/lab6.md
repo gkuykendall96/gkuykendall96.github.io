@@ -23,7 +23,7 @@
 
 #### Part 2
 LISA Cluster
-[](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/lisaclust.png)
+![](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/lisaclust.png)
 
 
 
