@@ -22,8 +22,8 @@
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/Guerry10.png)
 
 #### Part 2
-
-
+LISA Cluster
+[](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/lab6/part1/lisaclust.png)
 
 
 
