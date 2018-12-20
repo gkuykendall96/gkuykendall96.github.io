@@ -2,11 +2,12 @@
 title: Gabriel Kuykendall Portfolio
 ---
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:350px; margin-right:2px" markdown="1">
   
 ### Project 1
 ![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/fullmap3small.png)
  [Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/project1.md)
+
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
