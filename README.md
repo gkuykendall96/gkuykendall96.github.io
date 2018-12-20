@@ -1,10 +1,10 @@
 # Gabriel Kuykendall Portfolio
-<!--This is the first row of projects -->
+
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
   
 ### Project 1
-![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/fullmap3.png)
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/fullmap1.png)
 [Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/project1.md)
 </div>
 
