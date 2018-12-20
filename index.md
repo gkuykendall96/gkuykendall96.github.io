@@ -2,7 +2,7 @@
 title: Gabriel Kuykendall Portfolio
 ---
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:650px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:450px; margin-right:3px" markdown="1">
   
 ### Project 1
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project1/fullmap3.png)
@@ -10,7 +10,7 @@ title: Gabriel Kuykendall Portfolio
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:300px" markdown="1">
 
 ### Project 2
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/gifall.gif)
