@@ -5,7 +5,7 @@ title: Gabriel Kuykendall Portfolio
 <div style="display: table-cell; width:320px; margin-right:1px" markdown="1">
   
 ### Project 1
-![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/fullmap3small.png)
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/try2.png)
  [Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/project1.md)
 
 </div>
