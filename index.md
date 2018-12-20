@@ -20,6 +20,7 @@ title: Gabriel Kuykendall Portfolio
 </div>
 
 ### Project 3
-[Full Project Here]()
+![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project3/381lab2.png)
+[Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project3/project3.md)
 ### Project 4
 [Full Project Here]()
