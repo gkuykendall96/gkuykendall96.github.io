@@ -4,7 +4,7 @@
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
   
 ### Project 1
-![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/fullmap1.png)
+![alt text](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/fullmap3small.png)
 [Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project1/project1.md)
 </div>
 
