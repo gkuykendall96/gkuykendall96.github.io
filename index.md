@@ -19,8 +19,24 @@ title: Gabriel Kuykendall Portfolio
 </div>
 </div>
 
+
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
+  
 ### Project 3
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project3/381lab2.png)
 [Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project3/project3.md)
+</div>
+
+<div style="display: table-cell; width:280px" markdown="1">
+
 ### Project 4
-[Full Project Here]()
+![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project4/voterturnout.png)
+[Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project4/project4.md)
+
+</div>
+</div>
+
+
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
