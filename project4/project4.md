@@ -15,7 +15,7 @@ Project 4 and 486 Final
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project4/FinalProjectTrump.png)
 
 #### Methods
-I used SQL to sort through most of the data. What was most important from what I downloaded were the results of the election and voter turnout. The 3rd SQL code helped me join the tables together. From the merged table I was able to use the field calculator to create new fields with the % Turnout - % Clinton/% Turnout and % Turnout - % Trump/% Turnout to get values for both Figure 3 and 4. For the population data I created hexagons and used the point data to fill each polygon and to get a sense for each value.
+  I used SQL to sort through most of the data. What was most important from what I downloaded were the results of the election and voter turnout. The 3rd SQL code helped me join the tables together. From the merged table I was able to use the field calculator to create new fields with the % Turnout - % Clinton/% Turnout and % Turnout - % Trump/% Turnout to get values for both Figure 3 and 4. For the population data I created hexagons and used the point data to fill each polygon and to get a sense for each value.
 ![](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project4/sql_1.png)
 ![](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project4/sql_2.png)
 ![](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project4/sql_3.png)
