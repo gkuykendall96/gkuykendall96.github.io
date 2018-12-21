@@ -21,7 +21,7 @@ title: Gabriel Kuykendall Portfolio
 
 
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:200px; margin-right:3px" markdown="1">
   
 ### Project 3
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project3/381lab2.png)
