@@ -25,7 +25,7 @@ title: Gabriel Kuykendall Portfolio
   
 ### Project 3
 ![alt text](https://raw.githubusercontent.com/gkuykendall96/gkuykendall96.github.io/master/project3/381lab2.png)
-[Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/project3/project3.md)
+[Full Project Here](https://github.com/gkuykendall96/gkuykendall96.github.io/blob/master/test/Project2_1edit%20(2).pdf)
 </div>
 
 <div style="display: table-cell; width:600px" markdown="1">
